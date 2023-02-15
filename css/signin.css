@@ -28,9 +28,9 @@
   text-align: center;
   border-bottom: 1px solid #ddd;
 }
-.signin__card h2 span{
+.signin__card h2 strong{
   color: #006633;
-  font-weight: 900;
+  font-weight: 700;
 }
 .signin__card form{
   padding: 30px 22px;
